@@ -14,6 +14,11 @@
 
 <br> 
 
+- ### changelog
+  - New version Ventoy Just Black Theme v2: [Pling](https://www.pling.com/p/2055783/) - [Github](https://github.com/odiegoduarte/ventoy-themes/releases/tag/0.6)
+
+<br>
+
 - ### Tools I use to create themes
   - [Inkscape](https://inkscape.org/)  
   - [GIMP](https://www.gimp.org/)  
