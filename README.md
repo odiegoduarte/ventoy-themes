@@ -15,6 +15,7 @@
 <br> 
 
 - ### changelog
+  - New version Ventoy Purple Theme v2: [Pling](https://www.pling.com/p/1996159) - [Github](https://github.com/odiegoduarte/ventoy-themes/releases/tag/0.7)
   - New version Ventoy Just Black Theme v2: [Pling](https://www.pling.com/p/2055783/) - [Github](https://github.com/odiegoduarte/ventoy-themes/releases/tag/0.6)
 
 <br>
