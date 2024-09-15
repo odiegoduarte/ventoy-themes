@@ -17,6 +17,8 @@
 - ### changelog
   - New version Ventoy Purple Theme v2: [Pling](https://www.pling.com/p/1996159) - [Github](https://github.com/odiegoduarte/ventoy-themes/releases/tag/0.7)
   - New version Ventoy Just Black Theme v2: [Pling](https://www.pling.com/p/2055783/) - [Github](https://github.com/odiegoduarte/ventoy-themes/releases/tag/0.6)
+  - New version Ventoy Adwaita Theme V2: [Pling](https://www.pling.com/p/2083481/) - [GitHub](https://github.com/odiegoduarte/ventoy-themes/releases/tag/0.8)
+  - New version Ventoy Adwaita Blue Theme V2 [Pling](https://www.pling.com/p/2093957/) - [GitHub](https://github.com/odiegoduarte/ventoy-themes/releases/tag/0.9)
 
 <br>
 
