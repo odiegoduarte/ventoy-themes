@@ -1,0 +1,11 @@
+{
+    "theme":{
+        "file":[
+            "/ventoy/ventoy_template/theme.txt",
+            "/ventoy/ventoy_template/theme_legacy.txt"
+        ],
+        "default_file": 1,
+        "resolution_fit": 1,
+        "gfxmode": "1920x1080"
+    }
+}
