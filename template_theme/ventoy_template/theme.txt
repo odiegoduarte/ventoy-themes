@@ -22,7 +22,7 @@ terminal-box: "terminal_box_*.png"
   selected_item_color= "#f2f2f2"
   selected_item_pixmap_style = "select_*.png"
 
-  item_icon_space = 0
+  item_icon_space = 16
 
   scrollbar = true
   scrollbar_width = 10
